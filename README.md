@@ -1,9 +1,9 @@
 # Machine learning project on car data
 
-### Project goal : 
+### Project goal
 The aim was to analyze, do clustering, dimension reduction and prediction from car and dog data. To do this, machine learning methods were used.
 
-### Project steps :
+### Project steps
 - Data analysis
 - ML model selection : Logistic regression, Quadratic discriminant analysis, Regression tree, Random forest
 - PCA (Principal component analysis)
@@ -11,7 +11,7 @@ The aim was to analyze, do clustering, dimension reduction and prediction from c
 - Hierarchical clustering
 - Multiple correspondence analysis
 
-### Libraries used :
+### Libraries used
 sklearn, pandas, seaborn, FactoMineR
 
 <p align="center">
